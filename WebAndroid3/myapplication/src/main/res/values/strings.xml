@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Имя пользователя</string>
+    <string name="nav_header_subtitle">test@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Профиль</string>
+    <string name="menu_gallery">Информация</string>
+    <string name="menu_slideshow">Привет! Меня зовут Анастасия и это мое приложение</string>
+    <string name="menu_slideshow2">Правда, я не особо понимаю, как это всё работает, но очень хотела бы научиться :)</string>
+    <string name="menu_slideshow3">Спасибо за уделенное мне время</string>
+    <string name="home_second">Home Second</string>
+</resources>

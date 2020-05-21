@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Авторизация</string>
+    <string name="prompt_email">Введите email</string>
+    <string name="prompt_password">Введите пароль</string>
+    <string name="action_sign_in">Войти или зарегистрироваться</string>
+    <string name="action_sign_in_short">Войти</string>
+    <string name="welcome">Добро пожаловать в мое приложение! :)</string>
+    <string name="invalid_username">Аккаунт не существует</string>
+    <string name="invalid_password">Пароль должен содержать боле 5 символов</string>
+    <string name="login_failed">Ошибка авторизации</string>
+</resources>
